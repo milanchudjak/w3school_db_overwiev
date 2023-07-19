@@ -1,5 +1,5 @@
 
-In this project we have worked with the publicly database accesible at the website https://www.w3schools.com/sql.
+In this project we have worked with the public database accesible at the website https://www.w3schools.com/sql.
 
 The project includes a database of a company that deals with the sale of food to final customers in individual countries of Europe, North and South America. The database includes data necessary for the operation of the store, data about customers, orders, products, employees and suppliers.
 
@@ -9,7 +9,7 @@ The database consists of 8 tables. The largest table, OrderDertails, contains 51
 
 
 
-![Database schema](.images/Prepojene_tabulky_Text.jpg "This is the database schema.")
+![Database schema](.images/table_schema.jpg "This is the database schema.")
 
 
 ## Basic statistics
