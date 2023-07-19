@@ -9,7 +9,7 @@ The database consists of 8 tables. The largest table, OrderDertails, contains 51
 
 
 
-![Database schema](.images/table_schema.jpg "This is the database schema.")
+![Database schema](images/table_schema.jpg "This is the database schema.")
 
 
 ## Basic statistics
